@@ -5,6 +5,10 @@
  */
 package com.mrblackv.cah;
 
+import com.mrblackv.cah.dao.DAOcah;
+import com.mrblackv.cah.obj.Carta;
+import java.util.List;
+
 /**
  *
  * @author v.chico
@@ -15,7 +19,13 @@ public class CardsAgainstHumanity {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int jugadores;
+        List<Carta> mazo = DAOcah.getCartas(true, "ESP");
+        if (mazo != null && !mazo.isEmpty()) {
+            mazo.stream().forEach((c) -> {
+                System.out.println(c.toString()+"\n");
+            });
+        }
     }
     
 }

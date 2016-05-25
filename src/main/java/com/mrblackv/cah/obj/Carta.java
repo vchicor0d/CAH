@@ -13,13 +13,17 @@ import java.util.Objects;
  * @author v.chico
  */
 public class Carta implements Serializable {
+    private long cardId;
     private String texto;
     private boolean tipo;
+    private String idioma;
     private String userID;
 
-    public Carta(String texto, boolean tipo) {
+    public Carta(long cardId, String texto, boolean tipo, String idioma) {
+        this.cardId = cardId;
         this.texto = texto;
         this.tipo = tipo;
+        this.idioma = idioma;
     }
     
     public String getTexto() {
@@ -44,6 +48,22 @@ public class Carta implements Serializable {
 
     public void setUserID(String userID) {
         this.userID = userID;
+    }
+
+    public long getCardId() {
+        return cardId;
+    }
+
+    public void setCardId(long cardId) {
+        this.cardId = cardId;
+    }
+
+    public String getIdioma() {
+        return idioma;
+    }
+
+    public void setIdioma(String idioma) {
+        this.idioma = idioma;
     }
 
     @Override
@@ -79,5 +99,8 @@ public class Carta implements Serializable {
         return true;
     }
     
-    
+    @Override
+    public String toString() {
+        return cardId+": "+((tipo)?"Respuesta ":"Pregunta ")+idioma+"\n"+texto;
+    }
 }
