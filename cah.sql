@@ -406,7 +406,7 @@ insert into cartas (texto, tipo, idioma) values ('¿Qué es ese sonido?', 0, 'ES
 insert into cartas (texto, tipo, idioma) values ('¿A qué huele?', 0, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('Durante el sexo, me gusta pensar en _________________', 0, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('La medicina alternativa ahora usa las propiedades curativas de ______________________', 0, 'ESP');
-insert into cartas (texto, tipo, idioma) values ('Mientras flipaba con ácido _____________ se convirtió en ________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma, extra) values ('Mientras flipaba con ácido _____________ se convirtió en ________________', 0, 'ESP', 'PICK=2,');
 insert into cartas (texto, tipo, idioma) values ('Por culpa de un error de marketing El Corte Inglés has dejado de vender _________________', 0, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('¿Por qué estoy pegajoso?', 0, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('Hoy el tío de Bricomanía construirá ______________________', 0, 'ESP');
@@ -440,12 +440,12 @@ insert into cartas (texto, tipo, idioma) values ('¿Cuál es mi anti-droga?', 0,
 insert into cartas (texto, tipo, idioma) values ('La Liga de Fútbol ha prohibido __________ por dar a los jugadores una ventaja injusta', 0, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('¿___________? ¡Hay una explicación para eso!', 0, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('¿Qué me produce gases incontrolados?', 0, 'ESP');
-insert into cartas (texto, tipo, idioma) values ('Así es, yo maté a ____________. ¿Que cómo lo hice? ____________', 0, 'ESP');
-insert into cartas (texto, tipo, idioma) values ('Y el premio de la academia por _____________ es para ____________', 0, 'ESP');
-insert into cartas (texto, tipo, idioma) values ('En mi próximo truco sacaré ____________ de ____________', 0, 'ESP');
-insert into cartas (texto, tipo, idioma) values ('Canal Historia presenta: _______________, la historia de ______________', 0, 'ESP');
-insert into cartas (texto, tipo, idioma) values ('¿Cuál es la próxima pareja de superhéroes?', 0, 'ESP');
-insert into cartas (texto, tipo, idioma) values ('Haz un haiku', 0, 'ESP');
+insert into cartas (texto, tipo, idioma, extra) values ('Así es, yo maté a ____________. ¿Que cómo lo hice? ____________', 0, 'ESP', 'PICK=2');
+insert into cartas (texto, tipo, idioma, extra) values ('Y el premio de la academia por _____________ es para ____________', 0, 'ESP', 'PICK=2');
+insert into cartas (texto, tipo, idioma, extra) values ('En mi próximo truco sacaré ____________ de ____________', 0, 'ESP', 'PICK=2');
+insert into cartas (texto, tipo, idioma, extra) values ('Canal Historia presenta: _______________, la historia de ______________', 0, 'ESP', 'PICK=2');
+insert into cartas (texto, tipo, idioma, extra) values ('¿Cuál es la próxima pareja de superhéroes?', 0, 'ESP', 'PICK=2');
+insert into cartas (texto, tipo, idioma, extra) values ('Haz un haiku', 0, 'ESP', 'DRAW=2,PICK=3');
 insert into cartas (texto, tipo, idioma) values ('¿Qué es lo más crujiente?', 0, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('¿A qué huelen las personas mayores?', 0, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('________________: probado en niños, aprobado por las madres', 0, 'ESP');

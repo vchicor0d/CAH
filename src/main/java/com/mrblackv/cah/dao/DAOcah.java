@@ -36,14 +36,16 @@ public class DAOcah {
         Connection c = getConnection();
         List<Carta> mazo = null;
         if (c!=null){
-            String query = "select cardId, texto, tipo, idioma from cartas where tipo = ? and idioma = ?";
+            String query = "select cardId, texto, tipo, idioma, extra from cartas where tipo = ? and idioma = ?";
             try {
                 PreparedStatement pst = c.prepareStatement(query);
                 pst.setBoolean(1, tipo);
                 pst.setString(2, idioma);
                 ResultSet rs = pst.executeQuery();
                 mazo = new ArrayList<>();
+                Carta card;
                 while (rs.next()) {
+                    card = new Carta(rs.getLong(1), rs.getString(2), rs.getBoolean(3), rs.getString(4));
                     mazo.add(new Carta(rs.getLong(1), rs.getString(2), rs.getBoolean(3), rs.getString(4)));
                 }
             } catch (SQLException sqle) {

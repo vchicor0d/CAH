@@ -6,6 +6,10 @@
 package com.mrblackv.cah.obj;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.Objects;
 
 /**
@@ -18,6 +22,7 @@ public class Carta implements Serializable {
     private boolean tipo;
     private String idioma;
     private String userID;
+    private String extra;
 
     public Carta(long cardId, String texto, boolean tipo, String idioma) {
         this.cardId = cardId;
@@ -64,6 +69,28 @@ public class Carta implements Serializable {
 
     public void setIdioma(String idioma) {
         this.idioma = idioma;
+    }
+
+    public List<Map<String, Integer>> getExtra() {
+        String[] params = extra.split(",");
+        Map<String, Integer> paramMap = new HashMap<>();
+        List<Map<String, Integer>> listParams = null;
+        if (params != null && params.length>0) {
+            listParams = new ArrayList<>();
+            for (String param : params) {
+                paramMap = new HashMap<>();
+                String [] paramSplit = param.split("=");
+                if (paramSplit!= null && paramSplit.length > 0) {
+                    paramMap.put(paramSplit[0], Integer.parseInt(paramSplit[1]));
+                    listParams.add(paramMap);
+                }
+            }
+        }
+        return listParams;
+    }
+
+    public void setExtra(String extra) {
+        this.extra = extra;
     }
 
     @Override
