@@ -320,7 +320,7 @@ insert into cartas (texto, tipo, idioma) values ('La paz mundial', 1, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('Centauros', 1, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('Bajas civiles', 1, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('La Macarena', 1, 'ESP');
-insert into cartas (texto, tipo, idioma) values ('La carrera de actor de Shaquille O'Neal', 1, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('La carrera de actor de Shaquille O’Neal', 1, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('Judíos con el pelo a lo afro', 1, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('Gente cachonda', 1, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('El testículo perdido de Lance Armstrong', 1, 'ESP');
@@ -400,66 +400,66 @@ insert into cartas (texto, tipo, idioma) values ('Pacman comiendo corrida descon
 insert into cartas (texto, tipo, idioma) values ('Un relato erótico de Harry Potter', 1, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('Penaut Butter Jelly Time', 1, 'ESP');
 insert into cartas (texto, tipo, idioma) values ('Kim Jong-Un', 1, 'ESP');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+insert into cartas (texto, tipo, idioma) values ('Bebo para olvidar ___________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('______________________: bueno hasta la última gota', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué es ese sonido?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿A qué huele?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Durante el sexo, me gusta pensar en _________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('La medicina alternativa ahora usa las propiedades curativas de ______________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Mientras flipaba con ácido _____________ se convirtió en ________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Por culpa de un error de marketing El Corte Inglés has dejado de vender _________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Por qué estoy pegajoso?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Hoy el tío de Bricomanía construirá ______________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué me traje de Marruecos?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué ayuda a Obama a relajarse?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('_______________________. ¡Chócala!', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Durante el comunmente infravalorado Periodo Marrón de Picasso, hizo cientos de pinturas de ______________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('It’s a trap!', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué es lo que más le gusta a Aznar?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¡A que no puedes comer sólo uno!', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('La guerra sirve para _________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué es lo que no te gustaría encontrar en un plato de comida china?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Cuál es el próximo juguete del HappyMeal™?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Este año, en vez de carbón, Papa Noel traerá ________________ a los niños malos.', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Cómo mantengo estable mi relación de pareja?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Cuando sea presidente, crearé el ministerio de __________________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Cuál es mi poder secreto?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('EE.UU. ha empezado a enviar ___________ a los niños de Afghanistan', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Ojalá no hubiese perdido el manual de _______________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Por qué no puedo dormir por las noches?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Cuando esté en la carcel, meteré ___________________ de contrabando', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué toma Vin Diesel para cenar?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('El paraíso está lleno de ______________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué es lo que hay que hacer para llevarte a la cama?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Cuando sea millonario, levantaré una estatua de 20 metros en conmemoración de ______________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué encontraría tu abuela perturbador pero extrañamente encantador?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('En la nueva película original de Disney Channel, Hannah Montana se enfrenta por primera vez con ___________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Cuál es el secreto de Batman?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué me llevaría en un viaje al pasado para convencer a la gente de que soy un poderoso mago?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Cuál es mi anti-droga?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('La Liga de Fútbol ha prohibido __________ por dar a los jugadores una ventaja injusta', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿___________? ¡Hay una explicación para eso!', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué me produce gases incontrolados?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Así es, yo maté a ____________. ¿Que cómo lo hice? ____________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Y el premio de la academia por _____________ es para ____________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('En mi próximo truco sacaré ____________ de ____________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Canal Historia presenta: _______________, la historia de ______________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Cuál es la próxima pareja de superhéroes?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Haz un haiku', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué es lo más crujiente?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿A qué huelen las personas mayores?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('________________: probado en niños, aprobado por las madres', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué mejora con los años?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Lo siento, acabo de _____________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('A los blancos les gusta _____________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('La vida era dificil para los cavernículas antes de ______________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Quién ha robado las galletas del tarro de las galletas?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué es lo más emo?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Antes de matarle, Señor Bond, me gustaría enseñarle ______________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('La excursión al campo fue completamente arruinada por _______________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué es el mejor amigo de una chica?', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('Los estudios demuestran que las ratas de laboratorio resuelven laberintos un 50% más rápido tras ser expuestas a ___________', 0, 'ESP');
+insert into cartas (texto, tipo, idioma) values ('¿Qué me han estado ocultando mis padres?', 0, 'ESP');
 
 
 
