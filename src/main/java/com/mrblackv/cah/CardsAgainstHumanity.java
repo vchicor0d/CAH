@@ -26,6 +26,12 @@ public class CardsAgainstHumanity {
                 System.out.println(c.toString()+"\n");
             });
         }
+        mazo = DAOcah.getCartas(false, "ESP");
+        if (mazo != null && !mazo.isEmpty()) {
+            mazo.stream().forEach((c) -> {
+                System.out.println(c.toString()+"\n");
+            });
+        }
     }
     
 }
