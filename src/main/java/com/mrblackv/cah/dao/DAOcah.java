@@ -46,7 +46,8 @@ public class DAOcah {
                 Carta card;
                 while (rs.next()) {
                     card = new Carta(rs.getLong(1), rs.getString(2), rs.getBoolean(3), rs.getString(4));
-                    mazo.add(new Carta(rs.getLong(1), rs.getString(2), rs.getBoolean(3), rs.getString(4)));
+                    card.setExtra(rs.getString(5));
+                    mazo.add(card);
                 }
             } catch (SQLException sqle) {
                 System.err.println("getCartas: "+sqle);

@@ -6,11 +6,10 @@
 package com.mrblackv.cah.obj;
 
 import java.io.Serializable;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.Objects;
+import java.util.Set;
 
 /**
  *
@@ -71,22 +70,26 @@ public class Carta implements Serializable {
         this.idioma = idioma;
     }
 
-    public List<Map<String, Integer>> getExtra() {
-        String[] params = extra.split(",");
-        Map<String, Integer> paramMap = new HashMap<>();
-        List<Map<String, Integer>> listParams = null;
+    public Map<String, Integer> getExtraMap() {
+        String[] params = null;
+        if (extra != null) {
+            params = extra.split(",");
+        }
+        Map<String, Integer> paramMap = null;
         if (params != null && params.length>0) {
-            listParams = new ArrayList<>();
+            paramMap = new HashMap<>();
             for (String param : params) {
-                paramMap = new HashMap<>();
                 String [] paramSplit = param.split("=");
                 if (paramSplit!= null && paramSplit.length > 0) {
                     paramMap.put(paramSplit[0], Integer.parseInt(paramSplit[1]));
-                    listParams.add(paramMap);
                 }
             }
         }
-        return listParams;
+        return paramMap;
+    }
+    
+    public String getExtra() {
+        return extra;
     }
 
     public void setExtra(String extra) {
@@ -95,10 +98,13 @@ public class Carta implements Serializable {
 
     @Override
     public int hashCode() {
-        int hash = 3;
-        hash = 59 * hash + Objects.hashCode(this.texto);
-        hash = 59 * hash + (this.tipo ? 1 : 0);
-        hash = 59 * hash + Objects.hashCode(this.userID);
+        int hash = 7;
+        hash = 17 * hash + (int) (this.cardId ^ (this.cardId >>> 32));
+        hash = 17 * hash + Objects.hashCode(this.texto);
+        hash = 17 * hash + (this.tipo ? 1 : 0);
+        hash = 17 * hash + Objects.hashCode(this.idioma);
+        hash = 17 * hash + Objects.hashCode(this.userID);
+        hash = 17 * hash + Objects.hashCode(this.extra);
         return hash;
     }
 
@@ -114,13 +120,22 @@ public class Carta implements Serializable {
             return false;
         }
         final Carta other = (Carta) obj;
+        if (this.cardId != other.cardId) {
+            return false;
+        }
         if (this.tipo != other.tipo) {
             return false;
         }
         if (!Objects.equals(this.texto, other.texto)) {
             return false;
         }
+        if (!Objects.equals(this.idioma, other.idioma)) {
+            return false;
+        }
         if (!Objects.equals(this.userID, other.userID)) {
+            return false;
+        }
+        if (!Objects.equals(this.extra, other.extra)) {
             return false;
         }
         return true;
@@ -128,6 +143,14 @@ public class Carta implements Serializable {
     
     @Override
     public String toString() {
-        return cardId+": "+((tipo)?"Respuesta ":"Pregunta ")+idioma+"\n"+texto;
+        String toString = cardId+": "+((tipo)?"Respuesta ":"Pregunta ")+idioma+"\n"+texto;
+        Map<String, Integer> extramap = getExtraMap();
+        if (extramap != null && !extramap.isEmpty()){
+            Set<String> claves = extramap.keySet();
+            for (String clave : claves) {
+                toString += "\n"+clave+": "+extramap.get(clave);
+            }
+        }
+        return toString;
     }
 }

@@ -13,7 +13,7 @@ import java.util.List;
  *
  * @author v.chico
  */
-public class CardsAgainstHumanity {
+public class CardsAgainstHominids {
 
     /**
      * @param args the command line arguments
