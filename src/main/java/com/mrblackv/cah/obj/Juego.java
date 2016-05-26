@@ -21,14 +21,16 @@ public class Juego {
     private int turnoActual;
     private List<Carta> preguntas;
     private List<Carta> respuestas;
+    private DAOcah dao;
 
     public Juego(int jugadores) {
+        dao = new DAOcah();
         this.jugadores = new ArrayList<>();
         for (int i = 0; i<jugadores; i++){
             this.jugadores.add(new Jugador(i));
         }
-        preguntas = DAOcah.getCartas(false, "ESP");
-        respuestas = DAOcah.getCartas(true, "ESP");
+        preguntas = dao.getCartas(false, "ESP");
+        respuestas = dao.getCartas(true, "ESP");
         
         turnos = jugadores*2+1;
         zar = (int) Math.floor(Math.random()*jugadores);
@@ -75,7 +77,7 @@ public class Juego {
     }
     
     public Carta getPregunta() {
-        if (preguntas.isEmpty()) preguntas = DAOcah.getCartas(false, "ESP");
+        if (preguntas.isEmpty()) preguntas = dao.getCartas(false, "ESP");
         int carta = (int) Math.floor(Math.random()*preguntas.size());
         Carta c = preguntas.get(carta);
         preguntas.remove(carta);
@@ -83,7 +85,7 @@ public class Juego {
     }
     
     private void rellenaRespuestas() {
-        respuestas = DAOcah.getCartas(true, "ESP");
+        respuestas = dao.getCartas(true, "ESP");
         List<Carta> eliminar = new ArrayList<>();
         for (Jugador j : jugadores) {
             for (Carta c : j.getMano()) {

@@ -19,12 +19,15 @@ import java.util.List;
  * @author v.chico
  */
 public class DAOcah {
+
+    public DAOcah() {}
     
-    private static Connection getConnection(){
+    private Connection getConnection(){
         Connection c = null;
         try {
             Class.forName("org.sqlite.JDBC");
-            c = DriverManager.getConnection("jdbc:sqlite:src/main/resources/db/cah");
+            System.out.println(this.getClass().getClassLoader().getResource("db/cah").getPath());
+            c = DriverManager.getConnection("jdbc:sqlite:"+this.getClass().getClassLoader().getResource("db/cah").getPath());
         } catch (ClassNotFoundException | SQLException e) {
             System.err.println("getConnection: "+e);
             System.exit(1);
@@ -32,7 +35,7 @@ public class DAOcah {
         return c;
     }
     
-    public static List<Carta> getCartas(boolean tipo, String idioma){
+    public List<Carta> getCartas(boolean tipo, String idioma){
         Connection c = getConnection();
         List<Carta> mazo = null;
         if (c!=null){
