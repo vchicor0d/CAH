@@ -24,7 +24,7 @@ public class DAOcah {
         Connection c = null;
         try {
             Class.forName("org.sqlite.JDBC");
-            c = DriverManager.getConnection("jdbc:sqlite:cah");
+            c = DriverManager.getConnection("jdbc:sqlite:src/main/resources/db/cah");
         } catch (ClassNotFoundException | SQLException e) {
             System.err.println("getConnection: "+e);
             System.exit(1);
