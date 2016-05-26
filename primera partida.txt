@@ -1,0 +1,182 @@
+410: Pregunta ESP
+¿Qué me traje de Marruecos?
+.......................
+
+Jugador: 1
+199: Respuesta ESP
+Yo nunca
+.......................
+
+Jugador: 2
+233: Respuesta ESP
+Comer sandía
+.......................
+
+Jugador: 4
+193: Respuesta ESP
+Una gran expectativa sobre nada
+.......................
+
+_________________________
+_________________________
+
+430: Pregunta ESP
+¿Qué es lo que hay que hacer para llevarte a la cama?
+.......................
+
+Jugador: 1
+205: Respuesta ESP
+Un bocata de albóndigas
+.......................
+
+Jugador: 2
+11: Respuesta ESP
+Olor a viejos
+.......................
+
+Jugador: 3
+204: Respuesta ESP
+Miedo a los desconocidos
+.......................
+
+_________________________
+_________________________
+
+433: Pregunta ESP
+En la nueva película original de Disney Channel, Hannah Montana se enfrenta por primera vez con ___________
+.......................
+
+Jugador: 2
+126: Respuesta ESP
+Hacer pucheritos
+.......................
+
+Jugador: 3
+145: Respuesta ESP
+Lactancia
+.......................
+
+Jugador: 4
+282: Respuesta ESP
+Gladiadores Americanos
+.......................
+
+_________________________
+_________________________
+
+443: Pregunta ESP
+Canal Historia presenta: _______________, la historia de ______________
+PICK: 2
+.......................
+
+Jugador: 1
+65: Respuesta ESP
+Protector dental
+54: Respuesta ESP
+Tener un gatillazo en los preliminares
+.......................
+
+Jugador: 3
+310: Respuesta ESP
+El equipo de gimnasia chino
+299: Respuesta ESP
+Viejos japoneses
+.......................
+
+Jugador: 4
+263: Respuesta ESP
+Un molino lleno de cadáveres
+155: Respuesta ESP
+Mi alma
+.......................
+
+_________________________
+_________________________
+
+402: Pregunta ESP
+¿Qué es ese sonido?
+.......................
+
+Jugador: 1
+267: Respuesta ESP
+Solos de saxofón
+.......................
+
+Jugador: 2
+81: Respuesta ESP
+Lamer algo y luego decir que es tuyo
+.......................
+
+Jugador: 4
+169: Respuesta ESP
+Tensión sexual
+.......................
+
+_________________________
+_________________________
+
+429: Pregunta ESP
+El paraíso está lleno de ______________
+.......................
+
+Jugador: 1
+161: Respuesta ESP
+Combustión humana espontánea
+.......................
+
+Jugador: 2
+224: Respuesta ESP
+Tercera base
+.......................
+
+Jugador: 3
+287: Respuesta ESP
+Paisanos sin culo
+.......................
+
+_________________________
+_________________________
+
+424: Pregunta ESP
+EE.UU. ha empezado a enviar ___________ a los niños de Afghanistan
+.......................
+
+Jugador: 2
+53: Respuesta ESP
+Menstruación
+.......................
+
+Jugador: 3
+214: Respuesta ESP
+El Papa
+.......................
+
+Jugador: 4
+372: Respuesta ESP
+Pedos vaginales
+.......................
+
+_________________________
+_________________________
+
+453: Pregunta ESP
+¿Quién ha robado las galletas del tarro de las galletas?
+.......................
+
+Jugador: 1
+324: Respuesta ESP
+Stephen Hawking diciendo guarradas
+.......................
+
+Jugador: 3
+116: Respuesta ESP
+El KKK
+.......................
+
+Jugador: 4
+371: Respuesta ESP
+Desayunar un burrito con olor a culo
+.......................
+
+_________________________
+_________________________
