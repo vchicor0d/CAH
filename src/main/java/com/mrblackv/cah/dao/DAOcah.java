@@ -17,6 +17,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Unmarshaller;
 
 /**
  *
@@ -66,6 +69,21 @@ public class DAOcah {
             }
         }
         return mazo;
+    }
+    
+    public List<Carta> getCartas() {
+        try {
+            JAXBContext contexto = JAXBContext.newInstance(Carta.class);
+            Unmarshaller un = contexto.createUnmarshaller();
+            String path = DAOcah.class.getClassLoader().getResource("db/cartas.xml").getPath();
+            File xml = new File(path);
+            Carta c = (Carta) un.unmarshal(xml);
+            System.out.println(c.toString());
+        } catch (JAXBException e) {
+            System.err.println("getCartas: "+e);
+            System.exit(2);
+        }
+        return null;
     }
     
 }

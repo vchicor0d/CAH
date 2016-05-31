@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.mrblackv</groupId>
-    <artifactId>cah</artifactId>
+    <artifactId>cah-core</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     
@@ -21,15 +21,6 @@
     
     <build>
         <finalName>cah-core-${project.version}</finalName>
-        <resources>
-            <resource>
-                <targetPath>../db</targetPath>
-                <directory>${basedir}/src/main/resources/db</directory>
-                <includes>
-                    <include>cah</include>
-                </includes>
-            </resource>
-        </resources>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -62,4 +53,5 @@
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
+    <name>cah-core</name>
 </project>
