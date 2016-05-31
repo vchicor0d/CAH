@@ -6,6 +6,8 @@
 package com.mrblackv.cah.dao;
 
 import com.mrblackv.cah.obj.Carta;
+import java.io.File;
+import java.net.URISyntaxException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -13,6 +15,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -25,12 +29,16 @@ public class DAOcah {
     private Connection getConnection(){
         Connection c = null;
         try {
+            //System.out.println("Creando conexion: ");
             Class.forName("org.sqlite.JDBC");
-            System.out.println(this.getClass().getClassLoader().getResource("db/cah").getPath());
-            c = DriverManager.getConnection("jdbc:sqlite:"+this.getClass().getClassLoader().getResource("db/cah").getPath());
+            String path = DAOcah.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath()+"/../db/cah";
+            //System.out.println(path);
+            c = DriverManager.getConnection("jdbc:sqlite:"+path);
         } catch (ClassNotFoundException | SQLException e) {
             System.err.println("getConnection: "+e);
             System.exit(1);
+        } catch (URISyntaxException ex) {
+            Logger.getLogger(DAOcah.class.getName()).log(Level.SEVERE, null, ex);
         }
         return c;
     }
