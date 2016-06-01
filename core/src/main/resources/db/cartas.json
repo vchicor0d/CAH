@@ -1,0 +1,2763 @@
+[
+    {
+        "id": 1,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Barack Obama"
+    },
+    {
+        "id": 2,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Txeroki"
+    },
+    {
+        "id": 3,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esperanza Aguirre"
+    },
+    {
+        "id": 4,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Correrse en una piscina llena de lágrimas de niño"
+    },
+    {
+        "id": 5,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un sombrero muy guay"
+    },
+    {
+        "id": 6,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Auschwitz"
+    },
+    {
+        "id": 7,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tirarse un pedo e irse"
+    },
+    {
+        "id": 8,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un pelo púbico desviado"
+    },
+    {
+        "id": 9,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pelotas"
+    },
+    {
+        "id": 10,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Rito de apareamiento"
+    },
+    {
+        "id": 11,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Olor a viejos"
+    },
+    {
+        "id": 12,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un terrorista gracioso"
+    },
+    {
+        "id": 13,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Fuego amigo"
+    },
+    {
+        "id": 14,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Frigo pie"
+    },
+    {
+        "id": 15,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Keanu Reeves"
+    },
+    {
+        "id": 16,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Carne de vaca loca"
+    },
+    {
+        "id": 17,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Christopher Walken"
+    },
+    {
+        "id": 18,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Sean Connery"
+    },
+    {
+        "id": 19,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Sean Penn"
+    },
+    {
+        "id": 20,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El huracán Katrina"
+    },
+    {
+        "id": 21,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Racismo"
+    },
+    {
+        "id": 22,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Travestis que dan el pego"
+    },
+    {
+        "id": 23,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tocamientos genitales"
+    },
+    {
+        "id": 24,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El 11-M"
+    },
+    {
+        "id": 25,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esperar hasta el matrimonio"
+    },
+    {
+        "id": 26,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El clítoris"
+    },
+    {
+        "id": 27,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tíos que no vuelven a llamar"
+    },
+    {
+        "id": 28,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Toma dos tazas"
+    },
+    {
+        "id": 29,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una tortuga mordiendo la punta de tu pene"
+    },
+    {
+        "id": 30,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pedófilos"
+    },
+    {
+        "id": 31,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bono"
+    },
+    {
+        "id": 32,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Michael Jackson"
+    },
+    {
+        "id": 33,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Skeletor"
+    },
+    {
+        "id": 34,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La canción del Tiburón"
+    },
+    {
+        "id": 35,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Impotencia"
+    },
+    {
+        "id": 36,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Natalie Portman"
+    },
+    {
+        "id": 37,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El Big Bang"
+    },
+    {
+        "id": 38,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bromas sobre el Holocausto en un momento inoportuno"
+    },
+    {
+        "id": 39,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Chupar un Pirulo"
+    },
+    {
+        "id": 40,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gansos"
+    },
+    {
+        "id": 41,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "¿Abejas?"
+    },
+    {
+        "id": 42,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Los judíos"
+    },
+    {
+        "id": 43,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Los gays"
+    },
+    {
+        "id": 44,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "SIDA"
+    },
+    {
+        "id": 45,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Monaguillos"
+    },
+    {
+        "id": 46,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La tuna"
+    },
+    {
+        "id": 47,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Sobrecompensación"
+    },
+    {
+        "id": 48,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esas veces en las que te entra arena en la vagina"
+    },
+    {
+        "id": 49,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gary Coleman"
+    },
+    {
+        "id": 50,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una fiesta de cumpleaños decepcionante"
+    },
+    {
+        "id": 51,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Intercambiar saludos"
+    },
+    {
+        "id": 52,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Su Alteza Real, la Reina Isabel II"
+    },
+    {
+        "id": 53,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Menstruación"
+    },
+    {
+        "id": 54,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tener un gatillazo en los preliminares"
+    },
+    {
+        "id": 55,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El Teletubbie gay"
+    },
+    {
+        "id": 56,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Propaganda homosexual"
+    },
+    {
+        "id": 57,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Practicar un aborto usando una percha"
+    },
+    {
+        "id": 58,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La Sagrada Biblia"
+    },
+    {
+        "id": 59,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cienciología"
+    },
+    {
+        "id": 60,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tom Cruise"
+    },
+    {
+        "id": 61,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Todas las gambas que puedas comer por 4,99€"
+    },
+    {
+        "id": 62,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Despertarse medio desnudo en el parking del McDonalds"
+    },
+    {
+        "id": 63,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ana Rosa Quintana"
+    },
+    {
+        "id": 64,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ataques de dinosaurios"
+    },
+    {
+        "id": 65,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Protector dental"
+    },
+    {
+        "id": 66,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Condones de sabores"
+    },
+    {
+        "id": 67,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Abstinencia"
+    },
+    {
+        "id": 68,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Nazis"
+    },
+    {
+        "id": 69,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "América"
+    },
+    {
+        "id": 70,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Calentamiento global"
+    },
+    {
+        "id": 71,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ciencia"
+    },
+    {
+        "id": 72,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Chupa-Chups"
+    },
+    {
+        "id": 73,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un aumento de pechos asimétrico"
+    },
+    {
+        "id": 74,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hacerlo por el culo"
+    },
+    {
+        "id": 75,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Andar como un retrasado"
+    },
+    {
+        "id": 76,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pezones empitonados"
+    },
+    {
+        "id": 77,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Desodorante Axe"
+    },
+    {
+        "id": 78,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Paris Hilton"
+    },
+    {
+        "id": 79,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hara-Kiri"
+    },
+    {
+        "id": 80,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bond, James Bond"
+    },
+    {
+        "id": 81,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Lamer algo y luego decir que es tuyo"
+    },
+    {
+        "id": 82,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Comer hasta vomitar"
+    },
+    {
+        "id": 83,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Autocanibalismo"
+    },
+    {
+        "id": 84,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Piercings genitales"
+    },
+    {
+        "id": 85,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esa cosa que electrocuta tus abdominales"
+    },
+    {
+        "id": 86,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cagar en la sopa"
+    },
+    {
+        "id": 87,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Comportarse como un gilipollas con los niños"
+    },
+    {
+        "id": 88,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pedofilia"
+    },
+    {
+        "id": 89,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Alcoholismo"
+    },
+    {
+        "id": 90,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un feto"
+    },
+    {
+        "id": 91,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Que entren a robar en tu casa y que violes a los ladrones"
+    },
+    {
+        "id": 92,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Levadura"
+    },
+    {
+        "id": 93,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Curar la homosexualidad con la oración"
+    },
+    {
+        "id": 94,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Kayne West"
+    },
+    {
+        "id": 95,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pubertad"
+    },
+    {
+        "id": 96,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "200 gramos de heroína mexicana"
+    },
+    {
+        "id": 97,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Agricultura"
+    },
+    {
+        "id": 98,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Dinámicas de grupo"
+    },
+    {
+        "id": 99,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El conejo de Nesquick"
+    },
+    {
+        "id": 100,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Trolls"
+    },
+    {
+        "id": 101,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un mar de problemas"
+    },
+    {
+        "id": 102,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Obesidad"
+    },
+    {
+        "id": 103,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Meetic.es"
+    },
+    {
+        "id": 104,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Caballerosidad"
+    },
+    {
+        "id": 105,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un halcón con una gorra en la cabeza"
+    },
+    {
+        "id": 106,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Fabada Litoral"
+    },
+    {
+        "id": 107,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Eduard Punset"
+    },
+    {
+        "id": 108,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "¡¡¡BATMAN!!!"
+    },
+    {
+        "id": 109,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El café más caro del Starbucks"
+    },
+    {
+        "id": 110,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una ensalada de Telepizza"
+    },
+    {
+        "id": 111,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Estar en la llama"
+    },
+    {
+        "id": 112,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Amigos que se comen todas tus patatas fritas"
+    },
+    {
+        "id": 113,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gente negra"
+    },
+    {
+        "id": 114,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Niños y petas. Tiiiio"
+    },
+    {
+        "id": 115,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Frank de la Jungla"
+    },
+    {
+        "id": 116,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El KKK"
+    },
+    {
+        "id": 117,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Preguntas de selectividad basadas en la raza"
+    },
+    {
+        "id": 118,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Polvorones"
+    },
+    {
+        "id": 119,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bukkake pixelado"
+    },
+    {
+        "id": 120,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Lluvias doradas"
+    },
+    {
+        "id": 121,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Comerse la Nocilla a cucharadas"
+    },
+    {
+        "id": 122,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tiger Woods"
+    },
+    {
+        "id": 123,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El golpe de estado del 23 de febrero"
+    },
+    {
+        "id": 124,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gandhi"
+    },
+    {
+        "id": 125,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un curandero"
+    },
+    {
+        "id": 126,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hacer pucheritos"
+    },
+    {
+        "id": 127,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Limpieza étnica"
+    },
+    {
+        "id": 128,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Phoskitos"
+    },
+    {
+        "id": 129,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mi colección de juguetes sexuales de alta tecnología"
+    },
+    {
+        "id": 130,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Huevos de pterodáctilo"
+    },
+    {
+        "id": 131,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Donald Trump"
+    },
+    {
+        "id": 132,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Will Smith"
+    },
+    {
+        "id": 133,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Dr. Martin Luther King, Jr."
+    },
+    {
+        "id": 134,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esclavitud"
+    },
+    {
+        "id": 135,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Jäggerbomb"
+    },
+    {
+        "id": 136,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Fantasmas"
+    },
+    {
+        "id": 137,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Selección natural"
+    },
+    {
+        "id": 138,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Espinete"
+    },
+    {
+        "id": 139,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Sufragio femenino"
+    },
+    {
+        "id": 140,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Diseño inteligente"
+    },
+    {
+        "id": 141,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Levantar el cuello de la camisa"
+    },
+    {
+        "id": 142,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Las vías del metro"
+    },
+    {
+        "id": 143,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Necrofília"
+    },
+    {
+        "id": 144,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Torsión testicular"
+    },
+    {
+        "id": 145,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Lactancia"
+    },
+    {
+        "id": 146,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Dulce, dulce venganza"
+    },
+    {
+        "id": 147,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Minas terrestres"
+    },
+    {
+        "id": 148,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cabras comiendo latas"
+    },
+    {
+        "id": 149,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Los discapacitados profundos"
+    },
+    {
+        "id": 150,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Profesores sustitutos"
+    },
+    {
+        "id": 151,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Los gitanos"
+    },
+    {
+        "id": 152,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Elmo cosquillas"
+    },
+    {
+        "id": 153,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esta respuesta es post-moderna"
+    },
+    {
+        "id": 154,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Dos enanos cagando en un cubo"
+    },
+    {
+        "id": 155,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mi alma"
+    },
+    {
+        "id": 156,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mis genitales"
+    },
+    {
+        "id": 157,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hacerlo con otra persona delante de tu pareja"
+    },
+    {
+        "id": 158,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pasivo-agresividad"
+    },
+    {
+        "id": 159,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "DogChow"
+    },
+    {
+        "id": 160,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Transporte de fluidos"
+    },
+    {
+        "id": 161,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Combustión humana espontánea"
+    },
+    {
+        "id": 162,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La marcha atrás"
+    },
+    {
+        "id": 163,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Otra maldita película de vampiros"
+    },
+    {
+        "id": 164,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El perro de Chocapic"
+    },
+    {
+        "id": 165,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Justin Bieber"
+    },
+    {
+        "id": 166,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Heath Ledger"
+    },
+    {
+        "id": 167,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tiempo para uno mismo"
+    },
+    {
+        "id": 168,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Incesto"
+    },
+    {
+        "id": 169,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tensión sexual"
+    },
+    {
+        "id": 170,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La sangre de Cristo"
+    },
+    {
+        "id": 171,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mahoma"
+    },
+    {
+        "id": 172,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Emociones"
+    },
+    {
+        "id": 173,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Viagra"
+    },
+    {
+        "id": 174,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ser rico"
+    },
+    {
+        "id": 175,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Fantasías con leñadores"
+    },
+    {
+        "id": 176,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Padres muertos"
+    },
+    {
+        "id": 177,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Chupar algunas pollas para no ser reclutado"
+    },
+    {
+        "id": 178,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una pistola de agua llena de meado de gato"
+    },
+    {
+        "id": 179,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Poluciones nocturnas"
+    },
+    {
+        "id": 180,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ser fabuloso"
+    },
+    {
+        "id": 181,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Arnold Schwarzenegger"
+    },
+    {
+        "id": 182,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esbozar una sonrisa ante la mención de Camboya"
+    },
+    {
+        "id": 183,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Motosierras en vez de manos"
+    },
+    {
+        "id": 184,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Darth Vader"
+    },
+    {
+        "id": 185,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bob Esponja"
+    },
+    {
+        "id": 186,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Atún en lata con extra de delfín"
+    },
+    {
+        "id": 187,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Vikingos"
+    },
+    {
+        "id": 188,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El corazón de un niño"
+    },
+    {
+        "id": 189,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Lepra"
+    },
+    {
+        "id": 190,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Britney Spears a los 55"
+    },
+    {
+        "id": 191,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un buén salchichón"
+    },
+    {
+        "id": 192,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Asiáticos que no son muy buenos en mates"
+    },
+    {
+        "id": 193,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una gran expectativa sobre nada"
+    },
+    {
+        "id": 194,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una rascada clandestina de culo"
+    },
+    {
+        "id": 195,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Polvo de ángel"
+    },
+    {
+        "id": 196,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Decirle adiós a Dios"
+    },
+    {
+        "id": 197,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un agujero del culo blanqueado"
+    },
+    {
+        "id": 198,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La placenta"
+    },
+    {
+        "id": 199,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Yo nunca"
+    },
+    {
+        "id": 200,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Familias gitanas"
+    },
+    {
+        "id": 201,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cartas contra la humanidad"
+    },
+    {
+        "id": 202,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Empollones"
+    },
+    {
+        "id": 203,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Destrucción mutua asegurada"
+    },
+    {
+        "id": 204,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Miedo a los desconocidos"
+    },
+    {
+        "id": 205,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un bocata de albóndigas"
+    },
+    {
+        "id": 206,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "iDiotas con sus iPhones"
+    },
+    {
+        "id": 207,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Declaración de los Derechos Humanos"
+    },
+    {
+        "id": 208,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Preadolescentes"
+    },
+    {
+        "id": 209,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Existencialistas"
+    },
+    {
+        "id": 210,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Baltasar Garzón"
+    },
+    {
+        "id": 211,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esmegma"
+    },
+    {
+        "id": 212,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Morir de disentería"
+    },
+    {
+        "id": 213,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Los niños de la guerra"
+    },
+    {
+        "id": 214,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El Papa"
+    },
+    {
+        "id": 215,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "William Shatner"
+    },
+    {
+        "id": 216,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Envidia de pene"
+    },
+    {
+        "id": 217,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Complejo de Edipo"
+    },
+    {
+        "id": 218,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Soy amigo de tu padre en Facebook™"
+    },
+    {
+        "id": 219,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Genghis Khan"
+    },
+    {
+        "id": 220,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una tortura china"
+    },
+    {
+        "id": 221,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mi vida sexual"
+    },
+    {
+        "id": 222,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Oompa Loompas"
+    },
+    {
+        "id": 223,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un giro de guión de M. Night Shyamalan"
+    },
+    {
+        "id": 224,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tercera base"
+    },
+    {
+        "id": 225,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Dejar un mensaje de voz incómodo"
+    },
+    {
+        "id": 226,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hacerse un dedo"
+    },
+    {
+        "id": 227,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "José María Aznar"
+    },
+    {
+        "id": 228,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gente que huele sus propios calcetines"
+    },
+    {
+        "id": 229,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Catapultas"
+    },
+    {
+        "id": 230,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Semen de ballena"
+    },
+    {
+        "id": 231,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Barón Rojo"
+    },
+    {
+        "id": 232,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Los Pecos"
+    },
+    {
+        "id": 233,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Comer sandía"
+    },
+    {
+        "id": 234,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un hombre de mediana edad en patines"
+    },
+    {
+        "id": 235,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Artefactos explosivos caseros"
+    },
+    {
+        "id": 236,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Estrógeno"
+    },
+    {
+        "id": 237,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una mujer negra descarada"
+    },
+    {
+        "id": 238,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Peleas de pollos"
+    },
+    {
+        "id": 239,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Manazas"
+    },
+    {
+        "id": 240,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Lesbianas nazis borrachas que dan palizas"
+    },
+    {
+        "id": 241,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "(Estoy haciendo ejercicios vaginales ahora mismo)"
+    },
+    {
+        "id": 242,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Porno alemán sadomasoquista"
+    },
+    {
+        "id": 243,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gloryholes"
+    },
+    {
+        "id": 244,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "¡Cachorritos!"
+    },
+    {
+        "id": 245,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una paja triste"
+    },
+    {
+        "id": 246,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Felación al volante"
+    },
+    {
+        "id": 247,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La abuelita"
+    },
+    {
+        "id": 248,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tener la mandíbula inmovilizada"
+    },
+    {
+        "id": 249,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un micropene"
+    },
+    {
+        "id": 250,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Sentir miedo de ti mismo"
+    },
+    {
+        "id": 251,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pájaros que no pueden volar"
+    },
+    {
+        "id": 252,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ropa interior comestible"
+    },
+    {
+        "id": 253,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un malentendido guarrete"
+    },
+    {
+        "id": 254,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Herpes labial"
+    },
+    {
+        "id": 255,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La trama de una película de Michael Bay"
+    },
+    {
+        "id": 256,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Abdominales espectaculares"
+    },
+    {
+        "id": 257,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Don Limpio justo detrás de ti"
+    },
+    {
+        "id": 258,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Sexo con señoras gordas"
+    },
+    {
+        "id": 259,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Robert Downey Jr."
+    },
+    {
+        "id": 260,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ir a una orgía sólo por la comida"
+    },
+    {
+        "id": 261,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Zorritas"
+    },
+    {
+        "id": 262,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una explosión termonuclear"
+    },
+    {
+        "id": 263,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un molino lleno de cadáveres"
+    },
+    {
+        "id": 264,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El Santiago Bernabeu"
+    },
+    {
+        "id": 265,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pezones que se escapan del vestido"
+    },
+    {
+        "id": 266,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Música New Age"
+    },
+    {
+        "id": 267,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Solos de saxofón"
+    },
+    {
+        "id": 268,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Masturbación"
+    },
+    {
+        "id": 269,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Prepucio"
+    },
+    {
+        "id": 270,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Quitarte la camiseta"
+    },
+    {
+        "id": 271,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Tamborileros"
+    },
+    {
+        "id": 272,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Seducción"
+    },
+    {
+        "id": 273,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gente pobre"
+    },
+    {
+        "id": 274,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gente sin hogar"
+    },
+    {
+        "id": 275,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Arcoiris y rayos de sol"
+    },
+    {
+        "id": 276,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una LAN party"
+    },
+    {
+        "id": 277,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Follamigos"
+    },
+    {
+        "id": 278,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gancho de izquierda"
+    },
+    {
+        "id": 279,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Limpiarle el culo"
+    },
+    {
+        "id": 280,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Focusín"
+    },
+    {
+        "id": 281,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Muestras gratuitas"
+    },
+    {
+        "id": 282,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gladiadores Americanos"
+    },
+    {
+        "id": 283,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mear una piedra del riñón"
+    },
+    {
+        "id": 284,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Accidentes de caza"
+    },
+    {
+        "id": 285,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Enfermedad de las vacas locas"
+    },
+    {
+        "id": 286,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bolsitas de té"
+    },
+    {
+        "id": 287,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Paisanos sin culo"
+    },
+    {
+        "id": 288,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El sur"
+    },
+    {
+        "id": 289,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Meterse una buena raya"
+    },
+    {
+        "id": 290,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Echar un vistazo"
+    },
+    {
+        "id": 291,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Piruletas enormes"
+    },
+    {
+        "id": 292,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Heineken"
+    },
+    {
+        "id": 293,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Federico Jiménez Losantos"
+    },
+    {
+        "id": 294,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un canalillo generoso"
+    },
+    {
+        "id": 295,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Chester Cheetah"
+    },
+    {
+        "id": 296,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Aguafiestas"
+    },
+    {
+        "id": 297,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Música turbo-folk de Europa del este"
+    },
+    {
+        "id": 298,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cagarse encima"
+    },
+    {
+        "id": 299,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Viejos japoneses"
+    },
+    {
+        "id": 300,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gente blanca"
+    },
+    {
+        "id": 301,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una erección que dura más de cuatro horas"
+    },
+    {
+        "id": 302,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pavonearse"
+    },
+    {
+        "id": 303,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Porno con tentáculos"
+    },
+    {
+        "id": 304,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El perineo"
+    },
+    {
+        "id": 305,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El cascanueces"
+    },
+    {
+        "id": 306,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Barriga en forma de culo"
+    },
+    {
+        "id": 307,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "“Twitteando”"
+    },
+    {
+        "id": 308,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Amputados"
+    },
+    {
+        "id": 309,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Patinaje artístico sobre hielo con personas del mismo sexo"
+    },
+    {
+        "id": 310,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El equipo de gimnasia chino"
+    },
+    {
+        "id": 311,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Labios vaginales enormes"
+    },
+    {
+        "id": 312,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una vida de tristeza"
+    },
+    {
+        "id": 313,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Asaltar tumbas"
+    },
+    {
+        "id": 314,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ponerse la ropa interior al revés para no tener que lavarla"
+    },
+    {
+        "id": 315,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Síndrome de colon irritable"
+    },
+    {
+        "id": 316,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La paz mundial"
+    },
+    {
+        "id": 317,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Centauros"
+    },
+    {
+        "id": 318,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bajas civiles"
+    },
+    {
+        "id": 319,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La Macarena"
+    },
+    {
+        "id": 320,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La carrera de actor de Shaquille O’Neal"
+    },
+    {
+        "id": 321,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Judíos con el pelo a lo afro"
+    },
+    {
+        "id": 322,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Gente cachonda"
+    },
+    {
+        "id": 323,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El testículo perdido de Lance Armstrong"
+    },
+    {
+        "id": 324,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Stephen Hawking diciendo guarradas"
+    },
+    {
+        "id": 325,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Chicas que no deberían desmadrarse"
+    },
+    {
+        "id": 326,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Italianos"
+    },
+    {
+        "id": 327,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mi relación de pareja"
+    },
+    {
+        "id": 328,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pilotos kamikaze"
+    },
+    {
+        "id": 329,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Arcadas"
+    },
+    {
+        "id": 330,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Represión"
+    },
+    {
+        "id": 331,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cortar cabelleras"
+    },
+    {
+        "id": 332,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Trabajar como un chino"
+    },
+    {
+        "id": 333,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Francisco Franco"
+    },
+    {
+        "id": 334,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "2 Girls 1 Cup"
+    },
+    {
+        "id": 335,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bolas chinas"
+    },
+    {
+        "id": 336,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Concursos de belleza infantil"
+    },
+    {
+        "id": 337,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Se ha escrito un crimen"
+    },
+    {
+        "id": 338,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Fricción"
+    },
+    {
+        "id": 339,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Violar a un conocido"
+    },
+    {
+        "id": 340,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "¡¡¡Sexo sorpresa!!!"
+    },
+    {
+        "id": 341,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Lanzamiento de enanos"
+    },
+    {
+        "id": 342,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una lobotomía hecha con un picahielos"
+    },
+    {
+        "id": 343,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La vagina de Pilar Bardem"
+    },
+    {
+        "id": 344,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Niños con correas"
+    },
+    {
+        "id": 345,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Actitud"
+    },
+    {
+        "id": 346,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un camello de dibujos animados disfrutando del fresco sabor de un cigarrillo"
+    },
+    {
+        "id": 347,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Acurrucarse con tu pareja"
+    },
+    {
+        "id": 348,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Múltiples heridas por apuñalamiento"
+    },
+    {
+        "id": 349,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Emborracharse con enjuague bucal"
+    },
+    {
+        "id": 350,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Esnifar pegamento"
+    },
+    {
+        "id": 351,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hulk Hogan"
+    },
+    {
+        "id": 352,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "El gay que aparece en todas las series modernas"
+    },
+    {
+        "id": 353,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Constantino Romero durmiendo en un colchón LoMonaco™"
+    },
+    {
+        "id": 354,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bestialidad"
+    },
+    {
+        "id": 355,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Colegios tradicionalmente negros"
+    },
+    {
+        "id": 356,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Beber solo"
+    },
+    {
+        "id": 357,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Niños con cancer de culo"
+    },
+    {
+        "id": 358,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cagar y bautizarlo"
+    },
+    {
+        "id": 359,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mujeres en anuncios de yogurt"
+    },
+    {
+        "id": 360,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Manos de pianista"
+    },
+    {
+        "id": 361,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Whiskas Premium"
+    },
+    {
+        "id": 362,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un sorteo de bofetadas"
+    },
+    {
+        "id": 363,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hacer lo correcto"
+    },
+    {
+        "id": 364,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "World of Warcraft"
+    },
+    {
+        "id": 365,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Desayunar con la reina"
+    },
+    {
+        "id": 366,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ocultar una erección"
+    },
+    {
+        "id": 367,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Mearse un poquito"
+    },
+    {
+        "id": 368,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cuando te tiras un pedo y te cagas un poquito"
+    },
+    {
+        "id": 369,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hacer trampas en los Juegos Paraolímpicos"
+    },
+    {
+        "id": 370,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "La estupidez del ser humano"
+    },
+    {
+        "id": 371,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Desayunar un burrito con olor a culo"
+    },
+    {
+        "id": 372,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pedos vaginales"
+    },
+    {
+        "id": 373,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Dar el 110%"
+    },
+    {
+        "id": 374,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Robarle la novia a un amigo"
+    },
+    {
+        "id": 375,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Enseñarle a un robot a amar"
+    },
+    {
+        "id": 376,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Re-regalar"
+    },
+    {
+        "id": 377,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Atracar un banco de esperma"
+    },
+    {
+        "id": 378,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Alimentar a Montserrat Caballé"
+    },
+    {
+        "id": 379,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Darse por culo debajo de las sábanas"
+    },
+    {
+        "id": 380,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un Tamagotchi™ abandonado"
+    },
+    {
+        "id": 381,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un mongolo musculado"
+    },
+    {
+        "id": 382,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Morir"
+    },
+    {
+        "id": 383,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Comerse las galletas antes de la venta benéfica"
+    },
+    {
+        "id": 384,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Comer directamente de la olla"
+    },
+    {
+        "id": 385,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Hacer un reloj de arena"
+    },
+    {
+        "id": 386,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Sexo oral no recíproco"
+    },
+    {
+        "id": 387,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Guiñarle el ojo a los viejos"
+    },
+    {
+        "id": 388,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Ligar en la clínica de aborción"
+    },
+    {
+        "id": 389,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Cabrearte tanto que te empalmas"
+    },
+    {
+        "id": 390,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Escuchar atentamente"
+    },
+    {
+        "id": 391,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Bebés muertos"
+    },
+    {
+        "id": 392,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Una carrera de sillas de ruedas hasta la muerte"
+    },
+    {
+        "id": 393,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un mono fumando un cigarrillo"
+    },
+    {
+        "id": 394,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Demasiada gomina"
+    },
+    {
+        "id": 395,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un mimo teniendo un ataque al corazón"
+    },
+    {
+        "id": 396,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Pacman comiendo corrida descontroladamente"
+    },
+    {
+        "id": 397,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Un relato erótico de Harry Potter"
+    },
+    {
+        "id": 398,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Penaut Butter Jelly Time"
+    },
+    {
+        "id": 399,
+        "idioma": "ESP",
+        "tipo": true,
+        "texto": "Kim Jong-Un"
+    },
+    {
+        "id": 400,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Bebo para olvidar ___________"
+    },
+    {
+        "id": 401,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "______________________: bueno hasta la última gota"
+    },
+    {
+        "id": 402,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué es ese sonido?"
+    },
+    {
+        "id": 403,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿A qué huele?"
+    },
+    {
+        "id": 404,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Durante el sexo, me gusta pensar en _________________"
+    },
+    {
+        "id": 405,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "La medicina alternativa ahora usa las propiedades curativas de ______________________"
+    },
+    {
+        "id": 406,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Mientras flipaba con ácido _____________ se convirtió en ________________",
+        "extra": "PICK=2"
+    },
+    {
+        "id": 407,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Por culpa de un error de marketing El Corte Inglés has dejado de vender _________________"
+    },
+    {
+        "id": 408,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Por qué estoy pegajoso?"
+    },
+    {
+        "id": 409,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Hoy el tío de Bricomanía construirá ______________________"
+    },
+    {
+        "id": 410,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué me traje de Marruecos?"
+    },
+    {
+        "id": 411,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué ayuda a Obama a relajarse?"
+    },
+    {
+        "id": 412,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "_______________________. ¡Chócala!"
+    },
+    {
+        "id": 413,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Durante el comunmente infravalorado Periodo Marrón de Picasso, hizo cientos de pinturas de ______________________"
+    },
+    {
+        "id": 414,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "It’s a trap!"
+    },
+    {
+        "id": 415,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué es lo que más le gusta a Aznar?"
+    },
+    {
+        "id": 416,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¡A que no puedes comer sólo uno!"
+    },
+    {
+        "id": 417,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "La guerra sirve para _________________"
+    },
+    {
+        "id": 418,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué es lo que no te gustaría encontrar en un plato de comida china?"
+    },
+    {
+        "id": 419,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Cuál es el próximo juguete del HappyMeal™?"
+    },
+    {
+        "id": 420,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Este año, en vez de carbón, Papa Noel traerá ________________ a los niños malos."
+    },
+    {
+        "id": 421,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Cómo mantengo estable mi relación de pareja?"
+    },
+    {
+        "id": 422,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Cuando sea presidente, crearé el ministerio de __________________"
+    },
+    {
+        "id": 423,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Cuál es mi poder secreto?"
+    },
+    {
+        "id": 424,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "EE.UU. ha empezado a enviar ___________ a los niños de Afghanistan"
+    },
+    {
+        "id": 425,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Ojalá no hubiese perdido el manual de _______________"
+    },
+    {
+        "id": 426,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Por qué no puedo dormir por las noches?"
+    },
+    {
+        "id": 427,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Cuando esté en la carcel, meteré ___________________ de contrabando"
+    },
+    {
+        "id": 428,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué toma Vin Diesel para cenar?"
+    },
+    {
+        "id": 429,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "El paraíso está lleno de ______________"
+    },
+    {
+        "id": 430,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué es lo que hay que hacer para llevarte a la cama?"
+    },
+    {
+        "id": 431,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Cuando sea millonario, levantaré una estatua de 20 metros en conmemoración de ______________"
+    },
+    {
+        "id": 432,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué encontraría tu abuela perturbador pero extrañamente encantador?"
+    },
+    {
+        "id": 433,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "En la nueva película original de Disney Channel, Hannah Montana se enfrenta por primera vez con ___________"
+    },
+    {
+        "id": 434,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Cuál es el secreto de Batman?"
+    },
+    {
+        "id": 435,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué me llevaría en un viaje al pasado para convencer a la gente de que soy un poderoso mago?"
+    },
+    {
+        "id": 436,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Cuál es mi anti-droga?"
+    },
+    {
+        "id": 437,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "La Liga de Fútbol ha prohibido __________ por dar a los jugadores una ventaja injusta"
+    },
+    {
+        "id": 438,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿___________? ¡Hay una explicación para eso!"
+    },
+    {
+        "id": 439,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué me produce gases incontrolados?"
+    },
+    {
+        "id": 440,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Así es, yo maté a ____________. ¿Que cómo lo hice? ____________",
+        "extra": "PICK=2"
+    },
+    {
+        "id": 441,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Y el premio de la academia por _____________ es para ____________",
+        "extra": "PICK=2"
+    },
+    {
+        "id": 442,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "En mi próximo truco sacaré ____________ de ____________",
+        "extra": "PICK=2"
+    },
+    {
+        "id": 443,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Canal Historia presenta: _______________, la historia de ______________",
+        "extra": "PICK=2"
+    },
+    {
+        "id": 444,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Cuál es la próxima pareja de superhéroes?",
+        "extra": "PICK=2"
+    },
+    {
+        "id": 445,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Haz un haiku",
+        "extra": "DRAW=2,PICK=3"
+    },
+    {
+        "id": 446,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué es lo más crujiente?"
+    },
+    {
+        "id": 447,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿A qué huelen las personas mayores?"
+    },
+    {
+        "id": 448,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "________________: probado en niños, aprobado por las madres"
+    },
+    {
+        "id": 449,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué mejora con los años?"
+    },
+    {
+        "id": 450,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Lo siento, acabo de _____________"
+    },
+    {
+        "id": 451,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "A los blancos les gusta _____________"
+    },
+    {
+        "id": 452,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "La vida era dificil para los cavernículas antes de ______________"
+    },
+    {
+        "id": 453,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Quién ha robado las galletas del tarro de las galletas?"
+    },
+    {
+        "id": 454,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué es lo más emo?"
+    },
+    {
+        "id": 455,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Antes de matarle, Señor Bond, me gustaría enseñarle ______________"
+    },
+    {
+        "id": 456,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "La excursión al campo fue completamente arruinada por _______________"
+    },
+    {
+        "id": 457,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué es el mejor amigo de una chica?"
+    },
+    {
+        "id": 458,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "Los estudios demuestran que las ratas de laboratorio resuelven laberintos un 50% más rápido tras ser expuestas a ___________"
+    },
+    {
+        "id": 459,
+        "idioma": "ESP",
+        "tipo": false,
+        "texto": "¿Qué me han estado ocultando mis padres?"
+    }
+]
