@@ -21,6 +21,8 @@ public class Juego {
     private int turnoActual;
     private List<Carta> preguntas;
     private List<Carta> respuestas;
+    private Carta preguntaTurno;
+    private List<Carta> respuestasTurno;
     private DAOcah dao;
 
     public Juego(int jugadores) {
@@ -49,6 +51,8 @@ public class Juego {
             rellenaRespuestas();
         }
         repartir(null);
+        preguntaTurno = getPregunta();
+        respuestasTurno = new ArrayList<>();
         return turnoActual++ != turnos;
     }
     
@@ -141,5 +145,25 @@ public class Juego {
 
     public void setRespuestas(List<Carta> respuestas) {
         this.respuestas = respuestas;
+    }
+
+    public Carta getPreguntaTurno() {
+        return preguntaTurno;
+    }
+
+    public void setPreguntaTurno(Carta preguntaTurno) {
+        this.preguntaTurno = preguntaTurno;
+    }
+
+    public List<Carta> getRespuestasTurno() {
+        return respuestasTurno;
+    }
+
+    public void setRespuestasTurno(List<Carta> respuestasTurno) {
+        this.respuestasTurno = respuestasTurno;
+    }
+    
+    public void addRespuesta(Carta c) {
+        respuestasTurno.add(c);
     }
 }

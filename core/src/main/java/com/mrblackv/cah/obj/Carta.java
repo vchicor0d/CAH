@@ -20,7 +20,7 @@ public class Carta implements Serializable {
     private String texto;
     private boolean tipo;
     private String idioma;
-    private String userID;
+    private int userID;
     private String extra;
 
     public Carta() {
@@ -49,11 +49,11 @@ public class Carta implements Serializable {
         this.tipo = tipo;
     }
 
-    public String getUserID() {
+    public int getUserID() {
         return userID;
     }
 
-    public void setUserID(String userID) {
+    public void setUserID(int userID) {
         this.userID = userID;
     }
 
