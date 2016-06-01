@@ -10,18 +10,11 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
-import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlElementWrapper;
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlTransient;
-import javax.xml.bind.annotation.XmlType;
 
 /**
  *
  * @author v.chico
  */
-@XmlRootElement(name = "carta")
-@XmlType(propOrder = {"cardId", "idioma", "tipo", "texto", "extra"})
 public class Carta implements Serializable {
     private long cardId;
     private String texto;
@@ -56,7 +49,6 @@ public class Carta implements Serializable {
         this.tipo = tipo;
     }
 
-    @XmlTransient
     public String getUserID() {
         return userID;
     }
@@ -65,7 +57,6 @@ public class Carta implements Serializable {
         this.userID = userID;
     }
 
-    @XmlElement(name = "id")
     public long getCardId() {
         return cardId;
     }

@@ -5,21 +5,17 @@
  */
 package com.mrblackv.cah.dao;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.mrblackv.cah.obj.Carta;
-import java.io.File;
-import java.net.URISyntaxException;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.Reader;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Unmarshaller;
 
 /**
  *
@@ -29,61 +25,31 @@ public class DAOcah {
 
     public DAOcah() {}
     
-    private Connection getConnection(){
-        Connection c = null;
-        try {
-            //System.out.println("Creando conexion: ");
-            Class.forName("org.sqlite.JDBC");
-            String path = DAOcah.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath()+"/../db/cah";
-            //System.out.println(path);
-            c = DriverManager.getConnection("jdbc:sqlite:"+path);
-        } catch (ClassNotFoundException | SQLException e) {
-            System.err.println("getConnection: "+e);
-            System.exit(1);
-        } catch (URISyntaxException ex) {
-            Logger.getLogger(DAOcah.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        return c;
-    }
-    
     public List<Carta> getCartas(boolean tipo, String idioma){
-        Connection c = getConnection();
-        List<Carta> mazo = null;
-        if (c!=null){
-            String query = "select cardId, texto, tipo, idioma, extra from cartas where tipo = ? and idioma = ?";
-            try {
-                PreparedStatement pst = c.prepareStatement(query);
-                pst.setBoolean(1, tipo);
-                pst.setString(2, idioma);
-                ResultSet rs = pst.executeQuery();
-                mazo = new ArrayList<>();
-                Carta card;
-                while (rs.next()) {
-                    card = new Carta(rs.getLong(1), rs.getString(2), rs.getBoolean(3), rs.getString(4));
-                    card.setExtra(rs.getString(5));
-                    mazo.add(card);
+        List<Carta> mazo = getCartas();
+        List<Carta> lista = new ArrayList<>();
+        if (mazo != null && !mazo.isEmpty()) {
+            for (Carta c : mazo) {
+                if (c.isTipo()==tipo && c.getIdioma().equals(idioma)){
+                    lista.add(c);
                 }
-            } catch (SQLException sqle) {
-                System.err.println("getCartas: "+sqle);
-                System.exit(2);
             }
         }
-        return mazo;
+        return lista;
     }
     
     public List<Carta> getCartas() {
+        Gson gson = new Gson();
+        List<Carta> lista = null;
         try {
-            JAXBContext contexto = JAXBContext.newInstance(Carta.class);
-            Unmarshaller un = contexto.createUnmarshaller();
-            String path = DAOcah.class.getClassLoader().getResource("db/cartas.xml").getPath();
-            File xml = new File(path);
-            Carta c = (Carta) un.unmarshal(xml);
-            System.out.println(c.toString());
-        } catch (JAXBException e) {
-            System.err.println("getCartas: "+e);
-            System.exit(2);
+            InputStreamReader isr = new InputStreamReader(DAOcah.class.getClassLoader().getResourceAsStream("db/cartas.json"),"UTF-8");
+            BufferedReader br = new BufferedReader(isr);
+            Reader reader = br;
+            lista = gson.fromJson(reader, new TypeToken<List<Carta>>(){}.getType());
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(DAOcah.class.getName()).log(Level.SEVERE, null, ex);
         }
-        return null;
+        return lista;
     }
     
 }
