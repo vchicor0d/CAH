@@ -17,6 +17,7 @@ public class CardsAgainstHominids {
     public static void main(String[] args) {
         if (args.length == 0) {
             TestGame.start();
+            new JuegoTexto();
         } else {
             System.out.println("En construccion");
             new JuegoTexto();

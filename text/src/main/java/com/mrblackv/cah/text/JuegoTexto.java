@@ -113,12 +113,25 @@ public class JuegoTexto {
                     getRespuestas(j);
                 }
             }
-            System.out.println(pregunta.getTexto());
-            System.out.println("______________________________\n");
-            for (Carta c : juego.getRespuestasTurno()) {
-                System.out.println("Jugador: "+c.getUserID());
-                System.out.println(c.getTexto()+"\n");
+            eligeGanadora();
+        }
+        if (juego.getGanador().size() == 1) {
+            System.out.println("\n¡Gana el jugador "+juego.getGanador().get(0)+"!");
+        } else if (juego.getGanador().size() > 1) {
+            String mensaje = "\n¡Ha habido un empate entre los jugadores ";
+            for (int i=0; i < juego.getGanador().size(); i++){
+                if (i != 0){
+                    if (i+1 != juego.getGanador().size()){
+                        mensaje += ", ";
+                    } else {
+                        mensaje += " y ";
+                    }
+                }
+                mensaje += juego.getGanador().get(i);
             }
+            System.out.println(mensaje+"!");
+        } else {
+            System.out.println("\nNo ha ganado nadie :(");
         }
     }
     
@@ -155,5 +168,42 @@ public class JuegoTexto {
                 }
             } while (!correcto);
         } while (elegidas < pick);
+    }
+    
+    private void eligeGanadora() {
+        System.out.println("\nJugador "+(juego.getZar()+1)+" (Zar), elige una respuesta ganadora:\n");
+        System.out.println(pregunta.getTexto());
+        System.out.println("______________________________\n");
+        for (int i = 0, r = 1; i < juego.getRespuestasTurno().size(); i++, r++) {
+            System.out.println("Respuesta: "+r);
+            System.out.println("Jugador: "+juego.getRespuestasTurno().get(i).getUserID());
+            for (int j = 0; j < pick; j++){
+                if (i < juego.getRespuestasTurno().size()) {
+                    System.out.println(juego.getRespuestasTurno().get(i).getTexto());
+                }
+                if (j+1 < pick) {
+                    i++;
+                }
+            }
+            System.out.println("............................\n");
+        }
+        boolean correcto;
+        do {
+            correcto = true;
+            String elegida;
+            try {
+                elegida = scan.nextLine();
+                if (Integer.parseInt(elegida) < 1 || Integer.parseInt(elegida) > jugadores-1){
+                    System.err.println("No se ha introducido un número correcto");
+                    correcto = false;
+                } else {
+                    //Se obtiene el ganador del turno sacandolo de la carta de la lista de respuestas mediante la formula pick*respuestaElegida-1
+                    juego.ganadorTurno(juego.getRespuestasTurno().get(pick*Integer.parseInt(elegida)-1).getUserID());
+                }
+            } catch (NumberFormatException e) {
+                System.err.println("Se debe introducir un número");
+                correcto = false;
+            }
+        } while (!correcto);
     }
 }
