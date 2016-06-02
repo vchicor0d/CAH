@@ -7,7 +7,9 @@ package com.mrblackv.cah.obj;
 
 import com.mrblackv.cah.dao.DAOcah;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  *
@@ -24,12 +26,15 @@ public class Juego {
     private Carta preguntaTurno;
     private List<Carta> respuestasTurno;
     private DAOcah dao;
+    private Map<Integer,List<Carta>> ganadas;
 
     public Juego(int jugadores) {
         dao = new DAOcah();
         this.jugadores = new ArrayList<>();
+        ganadas = new HashMap<>();
         for (int i = 0; i<jugadores; i++){
             this.jugadores.add(new Jugador(i));
+            ganadas.put(i, new ArrayList<Carta>());
         }
         preguntas = dao.getCartas(false, "ESP");
         respuestas = dao.getCartas(true, "ESP");
@@ -102,6 +107,26 @@ public class Juego {
         }
         respuestas.removeAll(eliminar);
     }
+    
+    public void ganadorTurno(int jugador) {
+        ganadas.get(jugador-1).add(preguntaTurno);
+    }
+    
+    public List<Integer> getGanador(){
+        List<Integer> ganadores = new ArrayList<>();
+        int cartas = 0;
+        for (int i = 0; i < ganadas.size(); i++) {
+            if (ganadas.get(i).size() == cartas){
+                cartas = ganadas.get(i).size();
+                ganadores.add(i+1);
+            } else if (ganadas.get(i).size() > cartas) {
+                ganadores = new ArrayList<>();
+                cartas = ganadas.get(i).size();
+                ganadores.add(i+1);
+            }
+        }
+        return ganadores;
+    }
 
     public List<Jugador> getJugadores() {
         return jugadores;
@@ -165,5 +190,13 @@ public class Juego {
     
     public void addRespuesta(Carta c) {
         respuestasTurno.add(c);
+    }
+
+    public Map<Integer, List<Carta>> getGanadas() {
+        return ganadas;
+    }
+    
+    public List<Carta> getGanadas(int jugador) {
+        return ganadas.get(jugador);
     }
 }
